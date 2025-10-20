@@ -10,7 +10,7 @@ os.system("clear")
 print("""\033[1m                                          
 \033[31m⌌\033[32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[31m⌍          
 ▏\033[36mTool Name : \033[33mMR.FACEBOOK \033[31m    ▕              
-▏\033[36mAuthor    : \033[33mNK EDITOR \033[31m     ▕              
+▏\033[3mowner      : \033[33mNK EDITOR \033[31m     ▕              
 ▏\033[36mWOT       : \033[33mFBMulti_Post\033[31m    ▕
 ▏\033[36mType      : \033[33mPremuim \033[31m        ▕                
 ⌎\033[32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[31m⌏                        """)
@@ -74,4 +74,5 @@ while 0 < 999:
                 print("[!] Error Connection...          ", end='\r');time.sleep(5.5);continue
     except Exception as e:
         break
+
 
